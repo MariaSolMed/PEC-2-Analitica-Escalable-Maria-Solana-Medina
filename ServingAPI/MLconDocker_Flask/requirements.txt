@@ -1,7 +1,0 @@
-flask == 2.1.0
-requests
-numpy
-pandas
-joblib
-sklearn
-tid-my-model-PEC-MariaSM==0.0.3
