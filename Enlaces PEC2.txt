@@ -1,0 +1,4 @@
+1. Comando Docker Hub: docker push mariasolmed/repositorio_pec2:tagname
+
+2. Enlace a GitHub (con todos los ficheros y evidencias): 
+https://github.com/MariaSolMed/PEC-2-Analitica-Escalable-Maria-Solana-Medina
