@@ -2,3 +2,5 @@
 
 2. Enlace a GitHub (con todos los ficheros y evidencias): 
 https://github.com/MariaSolMed/PEC-2-Analitica-Escalable-Maria-Solana-Medina
+
+3. Comando para instalación del modelo subido a Pypi: pip install tid-my-model-PEC-MariaSM
